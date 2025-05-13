@@ -947,4 +947,8 @@ public class ShaderProperties {
 	public CustomUniforms.Builder getCustomUniforms() {
 		return customUniforms;
 	}
+
+	public CloudSetting getDHCloudSetting() {
+		return dhCloudSetting;
+	}
 }
